@@ -1,4 +1,4 @@
-# Aim-Labs-pureJS
+# Aim-Trainer-Using-Javascript
 -----------------------
 A WebGame based on Training your AIM/Reaction time made with Pure JavaScript and some basic CSS
 
@@ -8,5 +8,5 @@ check it out URL: https://github.com/samakshpanwar/Aim-Trainer-using-Javascript
 
 >Screenshots
 
-<img src="" alt="aimlab1" width=750px border="0">
+<img src="https://raw.githubusercontent.com/samakshpanwar/Aim-Trainer-using-Javascript/main/aim.png" alt="aimlab1" width=750px border="0">
 <img src="https://i.ibb.co/xLwhvcb/aim2.png" alt="aim2" width=750px border="0">
